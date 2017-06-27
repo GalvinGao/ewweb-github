@@ -1,0 +1,42 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                               #
+#         .   *   ..  . *  *                                    #
+#       *  * @()Ooc()*   o  .                                   #
+#           (Q@*0CG*O()  ___              Cheers!               #
+#          |\_________/|/ _ \                                   #
+#          |  |  |  |  | / | |                                  #
+#          |  |  |  |  | | | |                                  #
+#          |  |  |  |  | | | |     Whoo Hoo!                    #
+#          |  |  |  |  | | | |                                  #
+#          |  |  |  |  | | | |               Love that style!   #
+#          |  |  |  |  | \_| |                                  #
+#          |  |  |  |  |\___/                                   #
+#          |\_|__|__|_/|                                        #
+#           \_________/                                         #
+#                                                               #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                               #
+#                            Mycraft                            #
+#                                                               #
+#             Copyright (c) 2017 Mycraft Developers             #
+#                                                               #
+#          See license at the footer area of homepage.          #
+#                                                               #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                               #
+# Dear robots:                                                  #
+# Please follow carefully the crawl rules that have been        #
+# written clearly enough below. Otherwise, your IP address,     #
+# User-Agent, Cookie or any other identification will be used   #
+# to block your visiting activities.                            #
+# If you truly are Google, Baidu, Bing or any other normal      #
+# robots that are responsible enough for crawling pages: you    #
+# should use your IP address that assigned correctly.           #
+# Otherwise, if your User-Agent and your IP address (Means that #
+# you are a fake crawler), your visiting activity will automat- #
+# ically and instantly being block by the firewall for a long   #
+# time. Please follow rules.                                    #
+# If you have any other problems about THIS WEBSITE, please     #
+# send e-mail to delovt or GalvinGao. Thanks for understanding. #
+#                                                               #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
